@@ -1,7 +1,7 @@
 # Detection of Supermarket Shelves
 This project consists of a system to detect the Supermarket Shelves in the WebMarket dataset http://yuhang.rsise.anu.edu.au/
 
-The system first transform the RGB images to grayscale, then apply several filters and detectors such as vertical and horizontal Sobel filter, Canny edge detector and Hough transform to identify lines in the images (green lines in the image below), using all the processing early indicated finally the system generate a binary image with the shelves in black and the rest in white.   
+The system first transforms the RGB images to grayscale, then apply several filters and detectors such as vertical and horizontal Sobel filter, Canny edge detector and Hough transform to identify lines in the images (green lines in the image below), using all the processing early indicated finally the system generate a binary image with the shelves in black and the rest in white.   
 
 The next image shows part of the processing to detect the supermarket shelves
 
